@@ -1,5 +1,5 @@
 _repo: The-Lane-That-Had-No-Turning-Volume-3_6239
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'Short stories'
 - !lcsh 'Canadian fiction'
+- GITenberg
 tableOfContents: The tragic comedy of Annette -- The marriage of the miller -- Mathurin
   -- The story of the lime-burner -- The woodsman's story of the great white chief
   -- Uncle Jim -- The house with the tall porch -- Parpon the dwarf.
